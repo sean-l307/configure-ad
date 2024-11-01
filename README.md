@@ -149,6 +149,10 @@ Return to DC-1 and open Active Directory Users and Computers (ADUC) from the Ser
 ![Capture22](https://github.com/user-attachments/assets/cbfb5df7-7817-45f4-a1e1-c208ba36c11e)
 </p>
 <p>
- ---
+Finally, create 10,000 users with randomly generated names by copying the PowerShell script linked below. To run it, create a new script by clicking the button in the top left corner, paste the script, and click the green Run Script button.
+
+- [Script](https://github.com/sean-l307/configure-ad/blob/main/Generate-Names-Create-Users)
+
+Once the users are created, you can use any of them to sign in to Client-1. The default password set by the script is Password1.
 </p>
 <br />
