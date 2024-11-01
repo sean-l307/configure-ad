@@ -156,3 +156,23 @@ Finally, create 10,000 users with randomly generated names by copying the PowerS
 Once the users are created, you can use any of them to sign in to Client-1. The default password set by the script is Password1.
 </p>
 <br />
+
+
+![Capture26GroupPolicy](https://github.com/user-attachments/assets/4b73dded-153a-4bb2-a875-bc9b95c391e0)
+</p>
+<p>
+As mentioned above, sign in to Client-1 using one of the users you created (for example, ban.wumak). You should be able to log in without any issues if you remember your password. However, if you encounter any login problems, return to Active Directory Users and Computers.
+</p>
+<br />
+
+![Capture31 other option](https://github.com/user-attachments/assets/2fce585a-73fc-4415-856d-ed623c81b7c1)
+![Capture31](https://github.com/user-attachments/assets/6cdf0b48-c3bc-4356-9ec9-2904e7000f30)
+
+</p>
+<p>
+Use the search feature to locate mydomain.com, then right-click to find the user whose account you want to unlock. Once you've located the account, check the box labeled Unlock Account, and click Apply to save the changes.
+</p>
+<br />
+
+
+
